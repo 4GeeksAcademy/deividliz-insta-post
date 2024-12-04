@@ -1,0 +1,49 @@
+
+body {
+    margin-top: 100px;
+    background-color: lightgray;
+    font-family: "Roboto serif"; 
+}
+.post {
+    margin: auto;
+    width: 500px;
+    background-color: white;
+    
+    
+    
+}
+
+.post-header{
+    display: flex;
+/*     margin: 10px;
+ */    padding: 15px;
+}
+
+.html{
+    margin-right: 73%;
+    padding-left: 8px;
+}
+
+
+#puntos{
+    margin-top: 5px;
+}
+    
+    
+img{
+width: 100%;
+}
+
+#salvar{
+    float: right;
+    
+}
+.iconos{
+    margin: 10px;
+   padding-right: 10px;
+}
+
+.post-body{
+padding: 10px;
+}
+
